@@ -1,0 +1,26 @@
+.row{   
+
+    background-color: purple;
+    color:orange;
+    font-size:20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.headshot{
+    width:15%;
+   
+}
+.mid{
+    background-color:orange;
+    color:black;
+    align-items:center;
+    font-size:30px;
+    margin-top:6px;
+    margin-bottom:5px;
+    display: flex;
+    justify-content: space-around;
+}
+.aboutme{
+    border:1px solid black;   
+}
